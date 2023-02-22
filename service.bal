@@ -1,6 +1,6 @@
 import ballerina/graphql;
 
-configurable int port = 9090;
+configurable int port = 9091;
 
 service class ItemGphqlType {
     private final Item item;
